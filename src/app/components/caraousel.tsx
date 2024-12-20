@@ -17,7 +17,7 @@ export default function Carousel() {
   </div>
 
   {/* Content Overlay */}
- <div className="absolute flex flex-col justify-center items-center left-1/2 transform -translate-x-1/2 top-[70px] sm:top-[80px] md:top-[90px] lg:top-[100px] gap-[20px] sm:gap-[25px] md:gap-[30px] lg:gap-[35px] px-4 sm:px-8 lg:px-16 z-10 text-center">
+ <div className="absolute flex flex-col justify-center items-center left-1/2 transform -translate-x-1/2 mt-40 top-[70px] sm:top-[80px] md:top-[90px] lg:top-[100px] gap-[20px] sm:gap-[25px] md:gap-[30px] lg:gap-[35px] px-4 sm:px-8 lg:px-16 z-10 text-center">
   <h5 className="font-Montserrat font-semibold text-[14px] sm:text-[16px] md:text-[18px] leading-[20px] sm:leading-[24px] text-white">
     SUMMER 2020
   </h5>
