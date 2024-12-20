@@ -12,7 +12,7 @@
   </div>
 
   {/* Content Overlay */}
-  <div className="absolute flex flex-col justify-center left-[20px] sm:left-[40px] md:left-[80px] lg:left-[100px] top-[80px] sm:top-[80px] md:top-[90px] lg:top-[100px] items-start gap-[20px] sm:gap-[25px] md:gap-[30px] lg:gap-[35px] px-4 sm:px-8 lg:px-16 z-10">
+  <div className="absolute flex flex-col justify-center left-[20px] sm:left-[40px] md:left-[80px] lg:left-[100px] top-[200px] sm:top-[80px] md:top-[90px] lg:top-[100px] items-start gap-[20px] sm:gap-[25px] md:gap-[30px] lg:gap-[35px] px-4 sm:px-8 lg:px-16 z-10">
     <h5 className="font-Montserrat font-semibold text-[14px] sm:text-[16px] md:text-[18px] leading-[20px] sm:leading-[24px] text-white">
       SUMMER 2020
     </h5>
